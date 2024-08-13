@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "song_name": "Flags Wavin 2010",
+    "song_name": "Flags Wavin - 2010",
     "artist": "K'Naan",
     "image_src": "../public/AlbumImages/Flags_wavin.jpeg",
     "song_src":"../public/Songs/Flags Wavin 2010.mpeg"
   },
   {
     "id": 2,
-    "song_name": "All Eyes On Me",
+    "song_name": "All Eyes On Me - Death row",
     "artist": "2pac",
     "image_src": "../public/AlbumImages/tupac.jpeg",
     "song_src":"../public/Songs/All Eyes On Me.mpeg"
@@ -22,14 +22,14 @@
   },
   {
     "id": 4,
-    "song_name": "FIFA 14 EAsports",
+    "song_name": "FIFA 14 EA Sports",
     "artist": "John Newman",
     "image_src": "../public/AlbumImages/fifa_can_love_again.jpeg",
     "song_src":"../public/Songs/FIFA 14 EAsports.mpeg"
   },
   {
     "id": 5,
-    "song_name": "Word Cup By Ishowspeed",
+    "song_name": "World Cup By Ishowspeed",
     "artist": "IshowSpeed",
     "image_src": "../public/AlbumImages/wc_ishspeed.jpeg",
     "song_src":"../public/Songs/Word Cup By Ishowspeed.mpeg"
@@ -57,7 +57,7 @@
   },
   {
     "id": 9,
-    "song_name": "Eminem- Lose Yourself",
+    "song_name": "Eminem - Lose Yourself",
     "artist": "Eminem",
     "image_src": "../public/AlbumImages/Eminem_lose_yourself.jpeg",
     "song_src":"../public/Songs/Eminem- Lose Yourself.mpeg"

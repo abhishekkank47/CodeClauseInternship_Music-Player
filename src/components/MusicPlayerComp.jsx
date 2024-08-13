@@ -48,8 +48,8 @@ const MusicPlayerComp = () => {
   };
 
   return (
-    <div className="bg-gray-100 p-4 flex justify-center items-center h-screen bg-gradient-to-r from-black to-red-500">
-      <div className="bg-gradient-to-r from-yellow-600 to-slate-600 p-8 rounded-lg shadow-md w-80">
+    <div className="bg-gray-100 p-4 flex justify-center items-center h-screen bg-gradient-to-r from-black to-red-500 background">
+      <div className="bg-black p-8 rounded-lg shadow-md w-80">
         {/* Album Cover */}
         <img
           src={currentTrack.image_src}
@@ -191,7 +191,7 @@ const MusicPlayerComp = () => {
           <span>{audioRef.current ? formatTime(audioRef.current.duration) : "00:00"}</span>
         </div>
         <center>
-          <p className="text-gray-400 text-sm pt-10">Playing Next: {SongsData[nextSongIndex].song_name}</p>
+          <p className="text-gray-400 text-sm pt-10">Playing Next : {SongsData[nextSongIndex].song_name}</p>
         </center>
       </div>
     </div>
