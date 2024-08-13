@@ -1,6 +1,12 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import SongsData from "../Data/SongsData.json";
 
 const MusicPlayerComp = () => {
+  
+  const [currentSongIndex, setCurrentSongIndex] = useState(0)
+  const [nextSongIndex, setNextSongIndex] = useState(currentSongIndex + 1)
+  const track = SongsData[currentSongIndex]
+
   return (
     <>
       {/* <!-- component --> */}
@@ -9,16 +15,16 @@ const MusicPlayerComp = () => {
 
           {/* Album Cover */}
           <img
-            src="./public/AlbumImages/wc_ishspeed.jpeg"
-            alt="Album picture"
+          src={track.image_src}
+          alt={track.song_name}
             className="w-64 h-64 mx-auto rounded-lg mb-4 shadow-lg"
           />
 
           {/* Song Title */}
-          <h2 className="text-white text-xl font-semibold text-center">Album Title</h2>
+          <h2 className="text-white text-xl font-semibold text-center">{track.song_name}</h2>
 
           {/* Artist Name */}
-          <p className="text-white text-sm text-center">Artist</p>
+          <p className="text-white text-sm text-center">{track.artist}</p>
 
           {/* Music Controls */}
           <div className="mt-6 flex justify-center items-center">
@@ -116,6 +122,10 @@ const MusicPlayerComp = () => {
             <span>00:00</span>
             <span>3:53</span>
           </div>
+          <center>
+            <p className="text-gray-400 text-sm pt-10">Playing Next : {SongsData[nextSongIndex].song_name} </p>
+          </center>
+
         </div>
       </div>
     </>

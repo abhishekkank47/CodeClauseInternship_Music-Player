@@ -3,77 +3,77 @@
     "id": 1,
     "song_name": "Flags Wavin 2010",
     "artist": "K'Naan",
-    "image_name": "./public/AlbumImages/Flags_wavin.jpeg",
-    "song_src":"./public/Songs/Flags Wavin 2010.mpeg"
+    "image_src": "../public/AlbumImages/Flags_wavin.jpeg",
+    "song_src":"../public/Songs/Flags Wavin 2010.mpeg"
   },
   {
     "id": 2,
     "song_name": "All Eyes On Me",
     "artist": "2pac",
-    "image_name": "./public/AlbumImages/tupac.jpeg",
-    "song_src":"./public/Songs/All Eyes On Me.mpeg"
+    "image_src": "../public/AlbumImages/tupac.jpeg",
+    "song_src":"../public/Songs/All Eyes On Me.mpeg"
   },
   {
     "id": 3,
     "song_name": "GTA IV Theme",
     "artist": "Rockstar Game's",
-    "image_name": "./public/AlbumImages/Grand_Theft_Auto_IV_cover.jpg",
-    "song_src":"./public/Songs/GTA IV Theme.mpeg"
+    "image_src": "../public/AlbumImages/Grand_Theft_Auto_IV_cover.jpg",
+    "song_src":"../public/Songs/GTA IV Theme.mpeg"
   },
   {
     "id": 4,
     "song_name": "FIFA 14 EAsports",
     "artist": "John Newman",
-    "image_name": "./public/AlbumImages/fifa_can_love_again.jpeg",
-    "song_src":"./public/Songs/FIFA 14 EAsports.mpeg"
+    "image_src": "../public/AlbumImages/fifa_can_love_again.jpeg",
+    "song_src":"../public/Songs/FIFA 14 EAsports.mpeg"
   },
   {
     "id": 5,
     "song_name": "Word Cup By Ishowspeed",
     "artist": "IshowSpeed",
-    "image_name": "./public/AlbumImages/wc_ishspeed.jpeg",
-    "song_src":"./public/Songs/Word Cup By Ishowspeed.mpeg"
+    "image_src": "../public/AlbumImages/wc_ishspeed.jpeg",
+    "song_src":"../public/Songs/Word Cup By Ishowspeed.mpeg"
   },
   {
     "id": 6,
     "song_name": "295",
     "artist": "Sidhu Moosewala",
-    "image_name": "./public/AlbumImages/sidhu_295.jpeg",
-    "song_src":"./public/Songs/295.mpeg"
+    "image_src": "../public/AlbumImages/sidhu_295.jpeg",
+    "song_src":"../public/Songs/295.mpeg"
   },
   {
     "id": 7,
     "song_name": "NY State of Mind",
     "artist": "Nas",
-    "image_name": "./public/AlbumImages/ny state mind.jpeg",
-    "song_src":"./public/Songs/NY State Mind.mpeg"
+    "image_src": "../public/AlbumImages/ny state mind.jpeg",
+    "song_src":"../public/Songs/NY State Mind.mpeg"
   },
   {
     "id": 8,
     "song_name": "Desi Balak",
     "artist": "Irshad Khan",
-    "image_name": "./public/AlbumImages/desi_balak.jpeg",
-    "song_src":"./public/Songs/Desi Balak.mpeg"
+    "image_src": "../public/AlbumImages/desi_balak.jpeg",
+    "song_src":"../public/Songs/Desi Balak.mpeg"
   },
   {
     "id": 9,
     "song_name": "Eminem- Lose Yourself",
     "artist": "Eminem",
-    "image_name": "./public/AlbumImages/Eminem_lose_yourself.jpeg",
-    "song_src":"./public/Songs/Eminem- Lose Yourself.mpeg"
+    "image_src": "../public/AlbumImages/Eminem_lose_yourself.jpeg",
+    "song_src":"../public/Songs/Eminem- Lose Yourself.mpeg"
   },
   {
     "id": 10,
     "song_name": "Arambh hain Prachand",
     "artist": "Piyush Mishra",
-    "image_name": "./public/AlbumImages/arambh.jpeg",
-    "song_src":"./public/Songs/Arambh hain Prachand.mpeg"
+    "image_src": "../public/AlbumImages/arambh.jpeg",
+    "song_src":"../public/Songs/Arambh hain Prachand.mpeg"
   },
   {
     "id": 11,
     "song_name": "Divine 3.59",
     "artist": "DIVINE",
-    "image_name": "./public/AlbumImages/divine_359.jpeg",
-    "song_src":"./public/Songs/Divine 3.59.mpeg"
+    "image_src": "../public/AlbumImages/divine_359.jpeg",
+    "song_src":"../public/Songs/Divine 3.59.mpeg"
   }
 ]
